@@ -40,7 +40,7 @@
 
 ##  REQUIREMENTS
 
-#### Python 3.9 or above
+- Python 3.9 or above
 
 ## Required Python libraries:
 
