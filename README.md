@@ -63,11 +63,11 @@ pip install -r requirements.txt
 python n3tmapp3r.py
 ```
 
-# ⚠️ Disclaimer
-## This tool is intended for educational and ethical hacking purposes only. The user is not responsible for any misuse of this tool.
+## ⚠️ Disclaimer
+### This tool is intended for educational and ethical hacking purposes only. The user is not responsible for any misuse of this tool.
 
-# 💡 Contributions
-## We welcome contributions to improve this project! Feel free to raise an issue for any suggestions or bug fixes.
+## 💡 Contributions
+### We welcome contributions to improve this project! Feel free to raise an issue for any suggestions or bug fixes.
 
 # 📷 Screenshots
 
